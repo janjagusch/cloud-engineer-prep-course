@@ -45,4 +45,11 @@
 
 ## Implementing Load Balancing
 
+* Compute engine -> Create instance group -> Managed instance group
+* Network services -> Create load balancer
+    * HTTP(S) load balancing
+    * Internal or external?
+    
+
+
 ## Implementing DNS in GCP
