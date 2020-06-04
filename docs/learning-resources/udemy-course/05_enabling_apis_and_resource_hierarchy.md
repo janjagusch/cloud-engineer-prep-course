@@ -17,12 +17,9 @@
 * Makes it easier to manage permissions
 * Policy: A set of statements that specifies who can perform which actions on which resources
 * For components in the resource hierarchy:
-    * Organization
-        * The root
-    * Folders
-        * Collections of projects/folders.
-    * Projects
-        * What we work with ususally.
+    * Organization: The root
+    * Folders: Collections of projects/folders.
+    * Projects: What we work with ususally.
     * Resources
 
 ## Setting Up Billing
@@ -33,12 +30,12 @@
 
 * What role is needed to create a billing account?
 
-> Project Billing Manager
+    > Project Billing Manager
 
 * What is the hierarchical order in the Resource Hierarchỳ?
 
-> Organization, folder, project, resource
+    > Organization, folder, project, resource
 
 * In order to use a GCP service, what must be enabled for that service?
 
-> APIs
+    > APIs

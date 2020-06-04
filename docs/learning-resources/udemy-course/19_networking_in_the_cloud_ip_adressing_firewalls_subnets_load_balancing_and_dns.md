@@ -50,6 +50,4 @@
     * HTTP(S) load balancing
     * Internal or external?
     
-
-
 ## Implementing DNS in GCP

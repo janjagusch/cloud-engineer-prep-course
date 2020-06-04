@@ -17,8 +17,7 @@
 
 ## Create a Virtual Machine using Cloud Shell
 
-* Open cloud shell
-    * `gcloud compute instances create <instance name> --zone=us-west-1-b --machine-type=g1-small --boot-disk-size=16GB`
+* `gcloud compute instances create <instance name> --zone=us-west-1-b --machine-type=g1-small --boot-disk-size=16GB`
 
 ## Installing the Cloud SDK locally
 

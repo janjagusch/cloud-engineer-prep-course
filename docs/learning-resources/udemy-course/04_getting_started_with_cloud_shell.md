@@ -29,6 +29,4 @@
 * cbt
     * Work with Cloud BigTable
     * `cbt help`
-* For the exam: focus on gcloud and gsutil
-
-## Excercise: Enter Linux Commands and GCloud Commands
+* For the exam: Focus on gcloud and gsutil

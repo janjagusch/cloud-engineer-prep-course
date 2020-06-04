@@ -24,10 +24,10 @@
 
 ## Quiz
 
-What command line utility is used to work with Kubernetes resources within a running cluster?
+* What command line utility is used to work with Kubernetes resources within a running cluster?
 
-> kubectl
+    > kubectl
 
-Which GCP service can be used to display performance metrics like CPU utilization and memory utilization?
+* Which GCP service can be used to display performance metrics like CPU utilization and memory utilization?
 
-> Stackdriver monitoring
+    > Stackdriver monitoring

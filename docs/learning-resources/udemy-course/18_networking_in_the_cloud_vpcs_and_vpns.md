@@ -57,14 +57,14 @@
 
 ## Quiz
 
-When creating a VPC and creating default subnets, where are subnets created?
+* When creating a VPC and creating default subnets, where are subnets created?
 
-> In all regions
+    > In all regions
 
-What service allows VPCs to share resources if the VPCs are in different organizations?
+* What service allows VPCs to share resources if the VPCs are in different organizations?
 
-> VPC Peering
+    > VPC Peering
 
-What two resources must be created to implement a GCP VPN?
+* What two resources must be created to implement a GCP VPN?
 
-> Gateway and a tunnel
+    > Gateway and a tunnel

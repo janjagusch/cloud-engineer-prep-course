@@ -56,16 +56,16 @@
 
 * What two services provide managed relational databases?
 
-> Cloud SQL and Cloud Spanner
+    > Cloud SQL and Cloud Spanner
 
 * What two services provide managed NoSQL databases?
 
-> Datastore and Bigtable
+    > Datastore and Bigtable
 
-You want to have files automatically moved to Nearline storage from a regional storage bucket after the files are 60 days old. How can this be done with the least effort on the part of a storage administrator?
+* You want to have files automatically moved to Nearline storage from a regional storage bucket after the files are 60 days old. How can this be done with the least effort on the part of a storage administrator?
 
-> Add a lifecycle management rule
+    > Add a lifecycle management rule
 
-You have a large number of archive files that you will need to store for several years. You are not likely to retrieve any of the files over the 5 years that you have to retain them. What is the most cost-effect storage type to use for this use case?
+* You have a large number of archive files that you will need to store for several years. You are not likely to retrieve any of the files over the 5 years that you have to retain them. What is the most cost-effect storage type to use for this use case?
 
-> Coldline storage
+    > Coldline storage

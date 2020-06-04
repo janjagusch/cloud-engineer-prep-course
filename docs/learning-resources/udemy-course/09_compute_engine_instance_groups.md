@@ -3,7 +3,7 @@
 ## Introduction to Managed Instance Groups
 
 * Collection of instances that are managed as a single entity
-* Two types:
+* Two types
     * Managed instance group
         * MIG
         * Identical VMs
@@ -32,9 +32,9 @@
 
 * Automatically add or remove instances based on workload
 * Set minimum and maximum number of instances
-* Based of target utilization:
+* Based of target utilization
     * Of CPU 
     * HTTP load balancing servicing capacity
     * Stackdriver metrics
-* Cool down period: Time allowed for instances to finish serializing
+* **Cool down period: Time allowed for instances to finish serializing**
 * Stabilization period: Time autoscaler uses to calculate recommended number of instances (Avoid thrashing)

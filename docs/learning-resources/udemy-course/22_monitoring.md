@@ -45,18 +45,18 @@
 
 ## Quiz
 
-What Stackdriver service is used to monitor variables in running programs?
+* What Stackdriver service is used to monitor variables in running programs?
 
-> Debug
+    > Debug
 
-What Stackdriver service is used to analyze performance issues in distributed systems?
+* What Stackdriver service is used to analyze performance issues in distributed systems?
 
-> Trace
+    > Trace
 
-What Stackdriver service is used to monitor application and host performance metrics?
+* What Stackdriver service is used to monitor application and host performance metrics?
 
-> Monitor
+    > Monitor
 
-What Stackdriver service is used to search for information about the audit log?
+* What Stackdriver service is used to search for information about the audit log?
 
-> Logging
+    > Logging

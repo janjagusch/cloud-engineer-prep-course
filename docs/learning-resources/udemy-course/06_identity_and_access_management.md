@@ -6,21 +6,21 @@
 * Four types:
     * Google account
         * Represents person (developer, administrator, ...)
-        * Email address associated with Google (@gmail.com)
-    * Cloud identity or G Suite account
-        * Member of a company's G Suite domain
+        * Email address associated with Google ([...]@gmail.com)
+    * Cloud identity or GSuite account
+        * Member of a company's GSuite domain
     * Google group
         * Collection of identities
         * Assigning roles to multiple users
     * Service account
         * Not associated with a person but with an application/instance
-        * We don't have to use a person identity for machines
-* Access control concepts:
-    * Resources:
+        * We don't have to use a person's identity for machines
+* Access control concepts
+    * Resources
         * VMs, buckets, SQL instances, ...
-    * Permission:
+    * Permission
         * A holder of a permission can do certain actions on a resource
-    * Roles:
+    * Roles
         * Predefined
             * Google has created for us
         * Custom
@@ -28,14 +28,13 @@
         * Primitive
             * Before IAM existed (not recommended to use)
             * One exception: A small group of people are all responsible across the project
-* Policy:
+* Policy
     * Collection of statement which users have access to some resource
     * Roles -> identity
     * Policy -> resource
 
 ## Viewing IAM Assignments
 
-* IAM in search box
 * Members == identities
 
 ## Overview of IAM Roles
@@ -65,21 +64,22 @@
 * Use groups and service accounts
 * Use separate service accounts for separate functions
 * Use custom roles sparingly
+* Use primitives sparingly
 
 ## Quiz
 
 * A role is a collection of what type of entity?
 
-> Permissions
+    > Permissions
 
 * What are the two types of IAM roles?
 
-> Custom and predefined
+    > Custom and predefined
 
 * Where in the cloud console would you go to list all available IAM Roles?
 
-> IAM -> Roles
+    > IAM -> Roles
 
 * What kind of identity is used to grant permissions to a virtual machine to enable it to perform operations in GCP?
 
-> Service account
+    > Service account

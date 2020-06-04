@@ -35,20 +35,20 @@
 
 ## Deploying Applications in Kubernetes Engine
 
-* Application = Workload
-* Running = Deploying
+* Application == Workload
+* Running == Deploying
 * Kubernetes Engine -> Workload -> Create a deployment
 
 ## Quiz
 
-Kubernetes is a ___ orchestration platform.
+* Kubernetes is a ___ orchestration platform.
 
-> container
+    > container
 
-The smallest deployable unit of computation in Kubernetes is a ___.
+* The smallest deployable unit of computation in Kubernetes is a ___.
 
-> pod
+    > pod
 
-Another term for running an application in Kubernetes is ___.
+* Another term for running an application in Kubernetes is ___.
 
-> deploying
+    > deploying

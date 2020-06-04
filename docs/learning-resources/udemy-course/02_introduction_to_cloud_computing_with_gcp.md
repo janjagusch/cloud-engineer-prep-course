@@ -2,11 +2,11 @@
 
 ## What is Cloud Computing?
 
-* rent instead of own resources
-* pay what you use
-* elastic resource allocation
-* specialized services
-    * machine learning
+* Rent instead of own resources
+* Pay what you use
+* Elastic resource allocation
+* Specialized services
+    * Such as achine learning
 
 ## GCP Computing Services
 
@@ -39,9 +39,9 @@
 ## Networking with GCP
 
 * Virtual private clouds (VPCs)
-* Network services:
+* Network services
     * Load balancing
-* Hybrid connectivity:
+* Hybrid connectivity
     * Connect on premise data sets to GCP
 
 ## Special Purpose Services in GCP
@@ -56,7 +56,7 @@
 * Dataflow
 * Pub/Sub
 
-## Quiz 1
+## Quiz
 
 What GCP service is Google's platform-as-a-service offering?
 

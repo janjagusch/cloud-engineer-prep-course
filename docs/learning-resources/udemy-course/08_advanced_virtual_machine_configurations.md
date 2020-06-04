@@ -8,16 +8,16 @@
 
 ## Compute Engine Machine Types
 
-* Predefined machine types:
-    * Shared core:
-        * Run one a single hardware hyperthread
+* Predefined machine types
+    * Shared core
+        * Run on a single hardware hyperthread
         * Good for non-resource intensive loads
         * Good for short spikes
-    * Standard:
+    * Standard
         * VCPUs and memory
-    * High memory:
+    * High memory
         * Useful for memory intensive applications
-    * High CPU:
+    * High CPU
         * Useful for compute intensive applications
     * Mega memory
     * Ultra memory
@@ -34,7 +34,7 @@
 ## Custom Machine Type
 
 * Create instance -> Machine type -> Custom
-* Two slides:
+* Two slides
     * Cores
     * Memory
 
@@ -45,7 +45,7 @@
 
 ## Using Preemptible Virtual Machines
 
-* Preemtible: Can be terminated at any time.
+* **Preemtible: Can be terminated at any time.**
 * Saves up to 80% of computing cost.
 * Run up to 24 hours before being shut down.
 * Good when you can recover from instance failure.

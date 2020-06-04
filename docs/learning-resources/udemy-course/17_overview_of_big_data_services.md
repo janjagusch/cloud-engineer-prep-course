@@ -62,18 +62,18 @@
 
 ## Quiz
 
-What service would you use to transfer 30TB of data to Cloud Storage from your on premises data center?
+* What service would you use to transfer 30TB of data to Cloud Storage from your on premises data center?
 
-> Data Transfer Appliance (not Service)
+    > Data Transfer Appliance (not Service)
 
-What service would you use to process an IoT stream of time series data and create summary statistics for each minute of data?
+* What service would you use to process an IoT stream of time series data and create summary statistics for each minute of data?
 
-> Cloud Dataflow
+    > Cloud Dataflow
 
-What kind of subscription would you create on a Cloud Pub/Sub topic if you want the program processing the messages to control when the message is read?
+* What kind of subscription would you create on a Cloud Pub/Sub topic if you want the program processing the messages to control when the message is read?
 
-> Pull subscription
+    > Pull subscription
 
-Your manager would like to stop managing a Hadoop cluster after migrating to GCP. What service would you recommend using to replaced a self-managed Hadoop cluster?
+* Your manager would like to stop managing a Hadoop cluster after migrating to GCP. What service would you recommend using to replaced a self-managed Hadoop cluster?
 
-> Dataproc
+    > Dataproc
